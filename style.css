@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(to left, #49B1F2, #2A558C, #335AA6 );
+
+}
+h1{
+    padding: 200px 0px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 30pt;
+    text-align: center;
+}
+div{
+    text-align: center;
+    padding: 5px;
+    color: #333;
+}
+input[type=text]{
+    width: 300px;
+    border-radius: 11px;
+}
+input[type=password]{
+    width: 300px;
+    border-radius: 11px;
+}
+input[type=button]{
+    width: 100px;
+    border-radius: 10px;
+}
+input[type=button]:hover{
+   background-color:#49B1F2;
+}
+img{
+ width: 50px;
+ position: relative;
+ bottom: 76px; 
+left: 750px;
+}
+p{
+    position: relative;
+    top: 130px;
+}
