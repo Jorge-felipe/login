@@ -31,9 +31,8 @@ input[type=button]:hover{
 }
 img{
  width: 50px;
- position: relative;
- bottom: 76px; 
-left: 750px;
+ position: relative; 
+left: 7px;
 }
 p{
     position: relative;
